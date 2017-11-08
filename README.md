@@ -11,4 +11,5 @@
 * 机器人操作系统ROS浅析
 * 麻省理工学院-Alec Poitzsch-《Robot Operating System》
 * 上海大学-《Robot Operating System Tutorial ROS Basic》
-* 
+*   Packt.Effective.Robotics.Programming.with.ROS.3rd.Edition.2016.12
+*   OReilly.Programming.Robots.with.ROS.2015.11
